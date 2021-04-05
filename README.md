@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Uğur!</h1>
 
-<h3 align="center">I'm living in Aksaray, Turkey. Currently I'm a computer engineering student.</h3>
+<h3 align="center">Hello, I am Uğur. I live in Aksaray, Turkey. I am currently a 3rd grade computer engineering student at Fırat University.</h3>
 
 <div>
 <a href="#" >
