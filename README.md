@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Uğur!</h1>
 
+<h3 align="center">I'm living in Aksaray,Turkey. Currently I am a computer engineering student.</h3>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact) ![Views](https://komarev.com/ghpvc/?username=ugursabirer&label=Views)
