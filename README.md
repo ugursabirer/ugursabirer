@@ -11,7 +11,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ugursabirer&layout=compact" />
   </a>
 </div>
-
+<p></p>
 <div>
   <a  href="#">
     <img src="https://komarev.com/ghpvc/?username=ugursabirer">
