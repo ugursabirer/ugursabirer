@@ -6,7 +6,7 @@
 
 <!-- Actual text -->
 
-[![LinkedIn][1.1]][1] [![LinkedIn][2.2]][2]
+[![Instagram][1.1]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
