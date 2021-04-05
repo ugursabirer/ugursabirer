@@ -10,8 +10,8 @@
 
 <!-- Icons -->
 
-[1.1]: https://img.icons8.com/color/25/000000/instagram-new--v1.png
-[2.2]: https://img.icons8.com/color/25/000000/linkedin.png
+[1.1]: https://img.icons8.com/color/35/000000/instagram-new--v1.png
+[2.2]: https://img.icons8.com/color/35/000000/linkedin.png
 
 <!-- Links to your social media accounts -->
 
