@@ -14,6 +14,6 @@
 <p></p>
 <div>
   <a  href="#">
-    <img src="https://komarev.com/ghpvc/?username=ugursabirer">
+    <img src="https://komarev.com/ghpvc/?username=ugursabirer&label=Profile Views">
   </a>
 </div
