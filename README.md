@@ -2,7 +2,10 @@
 
 <h3 align="center">I'm living in Aksaray,Turkey. Currently I'm a computer engineering student.</h3>
 
-<!--
+<div>
+<a href="#" >
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ugursabirer&show_icons=true&include_all_commits=true"/>
+</a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
@@ -22,4 +25,3 @@
 [1]: https://www.instagram.com/ugursabirer/
 [2]: https://www.linkedin.com/in/ugursabirer/
 
--->
