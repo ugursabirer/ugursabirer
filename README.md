@@ -6,14 +6,16 @@
 
 <!-- Actual text -->
 
-[![LinkedIn][2.2]][2]
+[![LinkedIn][1.1]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
-[2.2]: https://img.icons8.com/color/50/000000/instagram-new--v1.png (LinkedIn icon without padding)
+[1.1]: https://img.icons8.com/color/50/000000/instagram-new--v1.png (LinkedIn icon without padding)
+[2.2]: https://img.icons8.com/color/50/000000/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
+[1]: https://www.instagram.com/ugursabirer/
 [2]: https://www.linkedin.com/in/ugursabirer/
 
 <!--
