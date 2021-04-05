@@ -2,11 +2,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact)
-
 <!-- Actual text -->
 
-[![Instagram][1.1]][1] [![LinkedIn][2.2]][2]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact) [![Instagram][1.1]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
