@@ -16,7 +16,7 @@
 [1]: https://www.instagram.com/ugursabirer/
 [2]: https://www.linkedin.com/in/ugursabirer/
 
-![](https://komarev.com/ghpvc/?username=ugursabirer)
+![Profile views](https://komarev.com/ghpvc/?username=ugursabirer)
 
 <!--
 **ugursabirer/ugursabirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
