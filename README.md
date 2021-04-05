@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=dark)
 
 [![GitHub followers](https://img.shields.io/github/followers/ugursabirer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ugursabirer?tab=followers)
 
