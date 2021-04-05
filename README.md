@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Uğur!
 
-![class](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact)
-
-![stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&hide=contribs,prs)
 
 <!--
 **ugursabirer/ugursabirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
