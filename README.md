@@ -2,9 +2,11 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact)   ![Profile views](https://komarev.com/ghpvc/?username=ugursabirer)
+
 <!-- Actual text -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact) [![Instagram][1.1]][1] [![LinkedIn][2.2]][2]
+[![Instagram][1.1]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
@@ -15,8 +17,6 @@
 
 [1]: https://www.instagram.com/ugursabirer/
 [2]: https://www.linkedin.com/in/ugursabirer/
-
-![Profile views](https://komarev.com/ghpvc/?username=ugursabirer)
 
 <!--
 **ugursabirer/ugursabirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
