@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=dark)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact)
 
