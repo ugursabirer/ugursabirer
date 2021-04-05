@@ -1,4 +1,4 @@
-<h1 align="center"Hi there 👋, I'm Uğur!</h1>
+<h1 align="center">Hi there 👋, I'm Uğur!</h1>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
