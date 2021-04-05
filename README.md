@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact)   ![Profile views](https://komarev.com/ghpvc/?username=ugursabirer)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact) ![Views](https://komarev.com/ghpvc/?username=ugursabirer&label=Views)
 
 <!-- Actual text -->
 
