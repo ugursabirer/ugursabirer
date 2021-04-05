@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm living in Aksaray,Turkey. Currently I'm a computer engineering student.</h3>
 
+<!--
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact) ![Views](https://komarev.com/ghpvc/?username=ugursabirer&label=Views)
@@ -19,3 +21,5 @@
 
 [1]: https://www.instagram.com/ugursabirer/
 [2]: https://www.linkedin.com/in/ugursabirer/
+
+-->
