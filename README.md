@@ -2,7 +2,7 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=dark)
 
-[![GitHub followers](https://img.shields.io/github/followers/ugursabirer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ugursabirer?tab=followers)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact)
 
 <!--
 **ugursabirer/ugursabirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
