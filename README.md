@@ -1,7 +1,5 @@
 <h1 align="center"Hi there 👋, I'm Uğur!</h1>
 
-I'm Cihat, living in Istanbul, Turkey. Currently I'm a computer engineering student.
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=ugursabirer&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugursabirer&layout=compact) ![Views](https://komarev.com/ghpvc/?username=ugursabirer&label=Views)
