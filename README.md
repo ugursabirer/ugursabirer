@@ -16,4 +16,4 @@
   <a  href="#">
     <img src="https://komarev.com/ghpvc/?username=ugursabirer&label=Profile Views">
   </a>
-</div
+</div>
