@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, welcome my GitHub profile.</h1>
+<h1 align="center">Hi there 👋, welcome to my GitHub profile.</h1>
 
 <h3 align="center">Hello, I am Uğur. I live in Aksaray, Turkey. I am currently a 3rd grade computer engineering student at Fırat University.</h3>
 
