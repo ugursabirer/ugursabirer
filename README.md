@@ -17,3 +17,9 @@
     <img src="https://komarev.com/ghpvc/?username=ugursabirer&label=Profile Views">
   </a>
 </div>
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/ugursabirer/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/40/000000/linkedin.png" height="30" width="30" />
+  </a>
+</p>
