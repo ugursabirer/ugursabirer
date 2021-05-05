@@ -26,11 +26,11 @@
   </a>
   <a href="https://instagram.com/ugursabirer/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+  <a href="https://stackoverflow.com/users/15845329/ugursabirer" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+  </a>
   </a>
   <a href="https://ugursabirer.github.io/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/internet--v1.png"/>
-  </a>
-  <a href="https://stackoverflow.com/users/15845329/ugursabirer" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
   </a>
 </p>
