@@ -14,11 +14,7 @@
   </a>
 </div>
 <p></p>
-<div>
-  <a  href="#">
-    <img src="https://komarev.com/ghpvc/?username=ugursabirer&label=Profile Views">
-  </a>
-</div>
+
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/ugursabirer/" target="blank">
