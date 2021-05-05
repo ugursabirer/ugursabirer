@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>, welcome to my GitHub profile.</h1>
+<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, welcome to my GitHub profile.</h1>
 
 <h3 align="center">Hello, I am Uğur. I live in Aksaray, Turkey. I am currently a 3rd grade computer engineering student at Fırat University.</h3>
 
