@@ -22,7 +22,7 @@
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/ugursabirer/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/40/000000/linkedin.png" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.instagram.com/ugursabirer/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
