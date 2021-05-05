@@ -28,3 +28,5 @@
     <img align="center" src="https://img.icons8.com/color/40/000000/instagram-new--v1.png" height="30" width="30" />
   </a>
 </p>
+
+![GitHub metrics](https://metrics.lecoq.io/ugursabirer) 
