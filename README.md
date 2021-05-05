@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello, I am Uğur. I live in Aksaray, Turkey. I am currently a 3rd grade computer engineering student at Fırat University.</h3>
 
-- 📫 How to reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="25px"> : sabirerugur@gmail.com
+- 📫 How to reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> : sabirerugur@gmail.com
 
 <div>
   <a href="#" >
