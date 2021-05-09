@@ -21,16 +21,16 @@
 </div>
 
 <p align="center">  
-  <a href="https://linkedin.com/in/ugursabirer/" target="blank">
+  <a href="https://linkedin.com/in/ugursabirer/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/40/000000/linkedin.png"/>
   </a>
-  <a href="https://instagram.com/ugursabirer/" target="blank">
+  <a href="https://instagram.com/ugursabirer/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/40/000000/instagram-new--v1.png"/>
   </a>
-  <a href="https://stackoverflow.com/users/15845329/ugursabirer" target="blank">
+  <a href="https://stackoverflow.com/users/15845329/ugursabirer" target="_blank">
     <img align="center" src="https://img.icons8.com/color/40/000000/stackoverflow.png"/>
   </a>
-  <a href="https://ugursabirer.github.io/" target="blank">
+  <a href="https://ugursabirer.github.io/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/40/000000/internet--v1.png"/>
   </a>
 </p>
