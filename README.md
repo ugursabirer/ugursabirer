@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ugursabirer" height="30" width="40" /></a>
-<a href="https://twitter.com/sabirerugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabirerugur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugursabirer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15845329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15845329" height="30" width="40" /></a>
 <a href="https://instagram.com/ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugursabirer" height="30" width="40" /></a>
-<a href="https://medium.com/@ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ugursabirer" height="30" width="40" /></a>
+<a href="https://twitter.com/sabirerugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabirerugur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugursabirer" height="30" width="40" /></a>
+<a href="https://medium.com/@ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ugursabirer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15845329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15845329" height="30" width="40" /></a>
+<a href="https://codepen.io/ugursabirer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ugursabirer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
