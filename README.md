@@ -1,10 +1,10 @@
 Hi 👋 My name is Uğur Sabırer
 =============================
 
-Backend Developer and Student
+Software Developer
 -----------------------------
 
-Hi, I'm Uður. I originally reside in Aksaray, graduate of computer Engineering at Elazig Fırat University. I am a master of C# and Java programming languages, and I have experience in the development of back-End software. I've done a 6-month long term Software Development internship on net technology. WITH HTML, CSS, JavaScript, I can make responsive Web designs in Front-End software development. I trust my SQL knowledge of the Database, I have used Microsoft SQL Server and PostgreSQL database management systems. I know Git as a version control system and I use GitHub regularly. On the Medium blog platform, I try to write down my information in every field I've learned and experienced, and then I try to transfer it to other users, like me, to many software users.
+Hello, I am Uğur, a graduate of Fırat University Computer Engineering and now I am working full time as a Software Developer at Softtech company.
 
 * 🌍  I'm based in Aksaray
 * 🖥️  See my portfolio at [About me](http://ugursabirer.github.io/)
